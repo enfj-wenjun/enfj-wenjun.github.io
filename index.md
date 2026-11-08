@@ -12,5 +12,3 @@ Welcome to my homepage! I am a Ph.D. student at the University of Bonn, proudly 
 - **Robust Mechanism Design**
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
