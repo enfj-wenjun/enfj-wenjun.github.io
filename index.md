@@ -4,19 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Welcome to my homepage! I am a Ph.D. student at the University of Bonn, proudly supervised by Sarah Auster and Daniel Krähmer.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Microeconomic Theory**
+- **Robust Mechanism Design**
 
 {% include_relative _includes/publications.md %}
 
